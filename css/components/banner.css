@@ -1,0 +1,19 @@
+.banner{
+	background-image:url(../../images/chat.jpg) ;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 150px 0px
+}
+
+.banner h1{
+	font-size: 50px;
+
+}
+.banner h2{
+	font-size: 30px;
+	font-weight: lighter;
+	object-position: 0.8;
+	margin-bottom: 40px;
+	
+}
